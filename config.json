@@ -1,0 +1,22 @@
+{
+    "rpc_url": "",
+    "unit": "ether",
+    "gas_price": 0,
+    "gas_limit": 0,
+    "gas_limit_k": 1.05,
+    "decimal_point": 0,
+    "max_amount": false,
+    "max_value": false,
+    "token_amount": {
+        "min": 0,
+        "max": 1
+    },
+    "value": {
+        "min": 0,
+        "max": 1
+    },
+    "delay": {
+        "min": 0,
+        "max": 1
+    }
+}
